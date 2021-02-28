@@ -2,14 +2,14 @@
 
 **Specifics:**
 
-* Lottery Ticket Fee for 1 ticket: 10 CAKE 
+* Lottery Ticket Fee for 1 ticket: 10 OVEN
 * Single User Lottery Entry Limit: No limit
-* Paying for one ticket \(10 CAKE\) will give users a random 4 digit combination with each digit being between 1-10, for e.g. “1-9-3-2”
-* In the UI, users can choose to enter a multiple of 10 CAKE, which will buy them multiple tickets. 
+* Paying for one ticket \(10 OVEN\) will give users a random 4 digit combination with each digit being between 1-10, for e.g. “1-9-3-2”
+* In the UI, users can choose to enter a multiple of 10 OVEN, which will buy them multiple tickets. 
 
 \*\*\*\*
 
-**How to win:**
+**How to Wim:**
 
 To win the lottery jackpot \(60% of the entire lottery pool\), users need to match all 4 numbers on their tickets in the same position as the 4 winning numbers.
 
@@ -37,7 +37,7 @@ For example, if the final 4 winning numbers are “1-9-3-2”:
 
 
 
-**Lottery phases:**  
+**Lottery Phases:**  
 
 
 Each full lottery session is completed every 2 hours. An example of a lottery session starting at 0 AM is below:  
@@ -47,7 +47,7 @@ Each full lottery session is completed every 2 hours. An example of a lottery se
 
 * You have 1 hour to buy tickets. 
 * The lottery jackpot will accumulate at the top of the page with each ticket bought.
-* Users will receive a ticket \(comprised of 4 digits\) for each 10 CAKE paid.
+* Users will receive a ticket \(comprised of 4 digits\) for each 10 OVEN paid.
 
 **Phase 2 - Lottery Draw! \(1:30 AM\)**
 
@@ -64,7 +64,7 @@ The next lottery starts in 30 minutes!
   
 ****
 
-**How are ticket numbers drawn?**  
+**How Are Ticket Numbers Drawn?**  
 
 
 The lottery aims to be completely random. Even though the ticket numbers given out are determined by a front-end logic, there is an extremely low chance that anyone is able to determine the 4 winning numbers ahead of time.  

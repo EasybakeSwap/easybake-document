@@ -1,8 +1,6 @@
-# OVEN Basics
+# OVEN
 
-\*\*\*\*
-
-![](../.gitbook/assets/group-501.png)
+![OVEN Token](../../.gitbook/assets/icon-square-512%20%281%29.png)
 
 \*\*\*\*
 
@@ -23,4 +21,3 @@
 * **SUGAR Holders -** 25% of the rewards per block \(10 OVEN\)
 * **Farmers Daily -** 900,000 OVEN \(based on 30k blocks per day\)
 * **SUGAR Holders Daily -** 300,000 OVEN \(based on 30k blocks per day\)
-
