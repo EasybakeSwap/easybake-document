@@ -1,4 +1,3 @@
 # Blog \(Medium\)
 
-[https://medium.com/@pancakeswap](https://medium.com/@pancakeswap)
-
+[https://medium.com/easybakeswap](https://medium.com/easybakeswap)
