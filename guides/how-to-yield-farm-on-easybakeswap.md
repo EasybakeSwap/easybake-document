@@ -1,22 +1,22 @@
-# How to Yield Farm on PancakeSwap
+# How to Yield Farm on EasyBake
 
 
 
 ![](https://lh6.googleusercontent.com/Dale9ZEPCvap9dHrQbAIsye8xakYV5fImD3QLRoHeeeyZrz5uKXN4ZJwv4tctoI7DxDOcV_eVHl8kbQXmaRprgcACXQUlhy__fqf_itink-MyiBg7mUylBsp49IOr6aDZyJ_yMWr)
 
-1. **Go to the farm page** [**here**](https://pancakeswap.finance/farms)**.**
+1. **Go to the farm page** [**here**](https://easybake.finance/bakery)**.**
 
 \*\*\*\*
 
 ![](https://lh6.googleusercontent.com/ACvmc-jkAPXkIjsFMCFj7SzOuWXtBzuYBnLWnD_mu1z55XW4POrUEUnfHf_MdNFBwIJboeOplOzbnD0XfaIj5NwacErLiQCkPSfz2DTR_imCidSvJF5TwWQ0vcEtakxSWUr_ibxW)
 
-**2. Connect your Binance Smart Chain Wallet \(top-right hand corner\)**
+**2. Connect your Ethereum Wallet \(top-right hand corner\)**
 
 \*\*\*\*
 
 ![](https://lh6.googleusercontent.com/daqT5y0qByNsNha7dv3AC0bosCLBCq5MfQYV1NTLfG1pJjcuaUuvYbVvZacuWsd1V1ACctFvbfY8BMAB4hb4bPo0_gdXqWBwLawsSDlceIEVi8GOQrsCE6vEAVxZOngxSmFEbN78)
 
-**3. Pick which farm you want to use. For this example, we will pick the CAKE-BNB farm.**
+**3. Pick which farm you want to use. For this example, we will pick the OVEN-ETH farm.**
 
 \*\*\*\*
 
@@ -28,9 +28,9 @@
 
 ![](https://lh4.googleusercontent.com/tWPfEFbqdefMnZDJlUdJ8frPUhtm9fpdqYszrlC_JsZ1RphfTdDMt2slyJszv3snEGi2H5BHN_Q0Lpi0LrcQEpSppCkRF_SO6ZPqYyXKu0bCxCXiRJstRtCY1UpVOa3UX41831S3)
 
-**5. Select the tokens to add, in this case BNB and CAKE. You need to provide them in a 50/50 ratio vs USD value.**
+**5. Select the tokens to add, in this case ETH and OVEN. You need to provide them in a 50/50 ratio vs USD value.**
 
-**For example, you would need to add $10 of BNB and $10 of CAKE. Once you are done, click “Supply”.**
+**For example, you would need to add $10 of ETH and $10 of OVEN. Once you are done, click “Supply”.**
 
   
 ****
@@ -43,29 +43,29 @@
 
 ![](https://lh3.googleusercontent.com/eaXzqIXl-vq0G2gjwNx4AO9Ab8TmcDM0KSM1ROFvZ0gLX8ce-ufPy-zNqA8bI0FWPN4NNaOqIai3X-fg-n4rzWNBYUiaxRp4ezIFwCOG_st5fd19urcf6ZBBuezuuZXj_wNOtFBC)
 
-**7. You now have liquidity tokens. Next, go back to the farm page** [**here**](https://pancakeswap.finance/farms)**.**
+**7. You now have DOUGH LP tokens. Next, go back to the bakery page** [**here**](https://easybake.finance/bakery)**.**
 
 \*\*\*\*
 
 ![](https://lh6.googleusercontent.com/dG3S3VOQmD4eyU4q9aL0e--gRQPgdLCM_1IjeL-9Ikb8bsTH9HLTl23yW6sgOOk1Q1yKm0kwbgLmsB0-THxzKExLvPu3KAK3S9BJSdVubgZ6ZPndFVU7t1PN67rLZF2NIwES7SZQ)
 
-**8. Click “Select” on the farm you want to use.**
+**8. Click “Select” on the oven you want to put your DOUGH LP tokens in.**
 
 \*\*\*\*
 
 ![](https://lh5.googleusercontent.com/FwDdprSZVj9NGoOL0AOx3ZBRr_xQc9IQxrSIEdRN_6V09-fER3ZcI_L4Ggb7w3ECA_ouE_BfVHJUWhCtE27bTouiIfm1dRuhigZAgudo6sfkXj-4H_TSgIlZTAltOVRP9H4M65lv)
 
-**9. Click the “+” button to stake your liquidity tokens.**
+**9. Click the “+” button to begin baking your DOUGH LP tokens.**
 
 \*\*\*\*
 
 ![](https://lh6.googleusercontent.com/4w7xng4U9odjKOANtRMtGvTJph1AgP-H4k-rTJK8yC3KIZQ12hjeVFMhAPnHZH9CvMTv0v1-USG6EsEqif_sMvlAthCJcTNDI9v4cXIfBEfCG19e9zYdRXB2VolP6psvHWy7Fy98)
 
-**10. Enter the number of liquidity tokens you want to stake and click “Confirm”.**
+**10. Enter the number of DOUGH LP tokens you want to stake and click “Confirm”.**
 
 \*\*\*\*
 
 ![](https://lh6.googleusercontent.com/LGjy7gAuN99xv-ja_2Ni85QNEJ0eaZfzPiOl7K89-QTmpBsOZYl0XODBMeEgFSm0Qmf8iECxCEDv_Kiyml8f5nJXynD1Z11yuk9188M3QSzei1skUIbFW1hAykmmvAZt0R2zx91o)
 
-**11. Done! Now you are farming CAKE tokens!**
+**11. Done! Now you are baking your DOUGH LP tokens & are earning OVEN tokens!**
 

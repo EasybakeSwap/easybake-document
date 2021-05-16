@@ -1,14 +1,14 @@
-# How to Trade on the PancakeSwap Exchange
+# How to Trade on the EasyBakeSwap Exchange
 
 ![Image for post](https://miro.medium.com/max/1400/0*C0Ng5_d1hK28qMMh)
 
-1. Go to the exchange page [here](https://exchange.pancakeswap.finance/#/swap).
+1. Go to the exchange page [here]https://swap.easybake.finance/#/swap).
 
 
 
 ![Image for post](https://miro.medium.com/max/512/0*roteFKZKRqO-IWYU)
 
-2. Unlock your Binance Smart Chain Wallet \(top right-hand side\).
+2. Unlock your Ethereum Wallet \(top right-hand side\).
 
 
 
@@ -38,5 +38,5 @@
 
 ![Image for post](https://miro.medium.com/max/1400/0*wHVyuL-WED_T3wiZ)
 
-7. Done! You can click “View on bscscan” to see your transaction details.
+7. Done! You can click “View on etherscan to see your transaction details.
 
