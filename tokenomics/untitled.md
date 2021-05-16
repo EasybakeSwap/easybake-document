@@ -1,4 +1,4 @@
-# OVEN Basics
+# CAKE Basics
 
 \*\*\*\*
 
@@ -8,13 +8,13 @@
 
 **Token:** OVEN
 
-**Contract Address:** [https://etherscan.io](https://etherscan.io) 
+**Contract Address:** [https://etherscan.io](https://etherscan.io)
 
 **Chain:** Polkadot Ecosystem
 
-**Emission Rate:** 
+**Emission Rate:**
 
-* **Block Reward -**  40 OVEN                                                                                                       ****
+* **Block Reward -**  40 OVEN                                                                                                       _\*\*_
 * **Daily Emissions \(Based on 30k blocks per day\) -**  1,200,000 OVEN per day
 
 **Distribution:**

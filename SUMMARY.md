@@ -1,27 +1,27 @@
 # Table of contents
 
-* [Pancake Swap Intro](README.md)
+* [EasyBake Intro](README.md)
 * [FAQ](faq.md)
 
 ## Core Products
 
-* [Exchange](core-products/pancakeswap-exchange.md)
-* [Pools](core-products/pancakeswap-pools.md)
-* [Farms](core-products/farms.md)
+* [Exchange](core-products/exchange.md)
+* [Pools](core-products/pools.md)
+* [Bakery](core-products/bakery.md)
 * [Voting](core-products/voting.md)
-* [Analytics](core-products/pancakeswap-analytics.md)
+* [Analytics](core-products/analytics.md)
 
 ## Tokenomics
 
 * [CAKE Basics](tokenomics/untitled.md)
-* [SYRUP \(Staking\)](tokenomics/syrup.md)
-* [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup.md)
+* [SYRUP \(Staking\)](tokenomics/syrup-staking.md)
+* [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup-lottery.md)
 
 ## Guides
 
 * [Binance Academy Guide](guides/binance-academy-guide.md)
 * [How to use PancakeSwap with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
-* [How to use MetaMask on PancakeSwap](guides/untitled.md)
+* [How to use MetaMask on PancakeSwap](guides/how-to-use-metamask-on-pancakeswap.md)
 
 ## Community / Social
 
