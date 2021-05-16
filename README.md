@@ -1,19 +1,14 @@
----
-description: >-
-  EasyBakeSwap is an automated market maker (“AMM”) that allows two tokens to be
-  exchanged in the  Ecosystem. It is fast, cheap, and allows anyone to
-  participate.
----
-
 # EasyBake Intro
 
-## EasyBake Swap
+EasyBakeSwap is an automated market maker \(“AMM”\) that allows two tokens to be exchanged in the Polkadot Ecosystem. It is fast, cheap, and allows anyone to participate.
+
+![](.gitbook/assets/masthead-twitter.png)
 
 **The Dream?**
 
 Racks piled high of cakes, sugar, whipped cream, oh my!
 
-Then after enjoying some goodies, EasyBakeSwap is aiming to be the \#1 liquidity provider in the Polkadot Ecosystem and the home of new, innovative gamed baking mechanics, many of which we suspect will make it to other chains and beyond.
+Then after enjoying some goodies, EasyBakeSwap is aiming to be the \#1 liquidity provider in the Polkadot Ecosystem and the home of new, innovative gamified farming mechanics, many of which we suspect will make it to other chains and beyond.
 
 **Why Polkadot?**
 
