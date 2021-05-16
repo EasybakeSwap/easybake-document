@@ -1,4 +1,4 @@
 # Blog \(Medium\)
 
-[https://medium.com/easybakeswap](https://medium.com/easybakeswap)
+[https://easybake.medium.com/](https://easybake.medium.com)
 

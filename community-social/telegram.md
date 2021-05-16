@@ -1,9 +1,4 @@
-# Telegram Communities
+# Telegram
 
-**Official Telegram Groups:** 
+[https://t.me/easybakeswap](https://t.me/easybakeswap)
 
-📣 Announcement Channel \([http://t.me/EasyBakeNews](http://t.me/EasyBakeNews)\) 
-
-🇺🇸 English Chat \([http://t.me/easybakeswap](http://t.me/easybakeswap)\)
-
-**Unofficial Telegram Groups:**
