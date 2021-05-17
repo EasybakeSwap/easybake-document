@@ -6,14 +6,15 @@
 ## Core Products
 
 * [Exchange](core-products/exchange.md)
-* [Pools](core-products/pools.md)
-* [Bakery](core-products/bakery.md)
+* [Refinery](core-products/pools.md)
+* [Bakery](core-products/bakery/README.md)
+  * [How to use the Bakery](core-products/bakery/how-to-use-the-bakery.md)
 * [Voting](core-products/voting.md)
 * [Analytics](core-products/analytics.md)
 
 ## Tokenomics
 
-* [CAKE Basics](tokenomics/untitled.md)
+* [OVEN Basics](tokenomics/untitled.md)
 * [SYRUP \(Staking\)](tokenomics/syrup-staking.md)
 * [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup-lottery.md)
 
