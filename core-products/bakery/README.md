@@ -5,7 +5,7 @@ description: >-
   OVEN.
 ---
 
-# Bakery
+# 🧁 Bakery
 
 {% page-ref page="how-to-use-the-bakery.md" %}
 

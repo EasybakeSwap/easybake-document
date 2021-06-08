@@ -5,7 +5,7 @@ description: >-
   allowing for a smooth, effortless experience.
 ---
 
-# Exchange
+# 🔄 Exchange
 
 {% page-ref page="swapping-tokens.md" %}
 
