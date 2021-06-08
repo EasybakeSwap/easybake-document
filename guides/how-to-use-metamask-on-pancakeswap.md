@@ -14,5 +14,5 @@ When it is installed, you will see it next to the navigation bar at the top of y
 
 After you make an account & connect to either the `Rinkeby`or `Mainnet` network, click on the `Connect` button at the top of the EasyBake navigation bar. This will connect you to the EasyBake ecosystem, allowing you to interact with all the features available.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
