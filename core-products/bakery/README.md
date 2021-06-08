@@ -1,8 +1,8 @@
 ---
 description: >-
   The Bakery is where you are able to deposit your DOUGH LP token(s), you
-  received from https://swap.easybake.finance/#/pool, to earn EasyBake's native
-  governance token, OVEN.
+  received from providing liquidity, to earn EasyBake's native governance token,
+  OVEN.
 ---
 
 # Bakery
