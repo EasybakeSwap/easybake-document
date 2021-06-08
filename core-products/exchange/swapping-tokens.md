@@ -9,15 +9,15 @@ description: >-
 
 First, navigate to [https://swap.easybake.finance/\#/swap](https://swap.easybake.finance/#/swap) 
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 Select the currencies you are swapping. In our case, we will be swapping our ETH for OVEN via the OVEN/ETH DOUGH \(EasyBake's unique liquidity pool tokens\) pool.
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 Input the amount of the `From` currency you wish to swap for the `To` currency you have selected, then click on `Swap Anyway` \(`Swap Anyway`will say `Swap` if the `Price Impact` isn't too high\).
 
-![The little box at the bottom displays the transaction details.](../../.gitbook/assets/image%20%2829%29.png)
+![The little box at the bottom displays the transaction details.](../../.gitbook/assets/image%20%2831%29.png)
 
 We've been prompted with a `Confirm Swap` modal that displays:  
 1. The `From` currency \(ETH\) amount.  
@@ -29,7 +29,7 @@ You may have noticed that the amount of OVEN has changed in the `Confirm Swap` m
   
 We're going to click on the`Swap Anyway` button because we're okay with the outcome of this transaction. So lets go ahead of click on it.
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 Now the `Waiting for confirmation` modal has appeared & a `Metamask Notification` has been prompted on the top right of our screen. We are given some options here.   
   
@@ -41,13 +41,13 @@ If the Ethereum Blockchain is being used more than usual, we may want to increas
 There is a `Reject` and `Confirm` button at the bottom left of the `Metamask Notification.` If we are happy with the transaction we will press `Confirm.` This will submit the transaction to be mined & if successful, we will receive the beloved OVEN.  
 
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 Our transaction was successful!
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 Now you should see your updated balances for the `From` currency & the `To` currency. Congratulations, you now own OVEN!
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 

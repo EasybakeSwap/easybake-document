@@ -19,7 +19,7 @@
 
 ## Guides
 
-* [How to use MetaMask on PancakeSwap](guides/how-to-use-metamask-on-pancakeswap.md)
+* [How to use MetaMask on EasyBake](guides/how-to-use-metamask-on-pancakeswap.md)
 
 ## Community / Social
 
