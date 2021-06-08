@@ -1,2 +1,0 @@
-# Golden SYRUP \(Lottery\)
-
