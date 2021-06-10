@@ -2,7 +2,7 @@
 
 **Token:** OVEN
 
-**Contract Address:** [https://etherscan.io](https://etherscan.io)
+**Contract Address:** [https://etherscan.io](https://rinkeby.etherscan.io/address/0x6be759Bd2808b869b821AE5d8184e2eFfe5eF396#code)
 
 **Chains:** Ethereum, Polkadot
 
