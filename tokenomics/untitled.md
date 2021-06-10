@@ -14,5 +14,5 @@
 
 * **75%** Bakers and Stakers
 * **12.5%** Community-Owned Treasury
-* **12.5%** Team
+* **12.5%** Operations \(Team, Marketing, Partnerships, Advisors, etc\)
 
